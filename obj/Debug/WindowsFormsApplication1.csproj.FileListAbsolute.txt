@@ -35,3 +35,14 @@ C:\Users\sys\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplicatio
 C:\Users\sys\Downloads\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
 C:\Users\sys\Downloads\WindowsFormsApplication1\obj\Debug\Win_Dog.exe
 C:\Users\sys\Downloads\WindowsFormsApplication1\obj\Debug\Win_Dog.pdb
+D:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\project\WindowsFormsApplication1\obj\Debug\Win_dog.Form2.resources
+D:\project\WindowsFormsApplication1\obj\Debug\Win_dog.Properties.Resources.resources
+D:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\project\WindowsFormsApplication1\obj\Debug\Win_Dog.exe
+D:\project\WindowsFormsApplication1\obj\Debug\Win_Dog.pdb
+D:\project\WindowsFormsApplication1\bin\Debug\Win_Dog.exe.config
+D:\project\WindowsFormsApplication1\bin\Debug\Win_Dog.exe
+D:\project\WindowsFormsApplication1\bin\Debug\Win_Dog.pdb
+D:\project\WindowsFormsApplication1\obj\Debug\Win_dog.Form1.resources
+D:\project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache

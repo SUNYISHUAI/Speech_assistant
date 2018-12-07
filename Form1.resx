@@ -112,23 +112,24 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="contextMenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>219, 17</value>
-  </metadata>
-  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  </data>
+  <data name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>17, 17</value>
-  </metadata>
+  </data>
   <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
         LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
         ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAD4
-        dwAAAk1TRnQBSQFMAgEBCwEAAQ4BAAEEAQABUAEAAVoBAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        dwAAAk1TRnQBSQFMAgEBCwEAAQ4BAAEIAQABUAEAAVoBAAT/AQkBEAj/AUIBTQE2AQQGAAE2AQQCAAEo
         AwABQAEBAgABDgEBAgABAQEAAQgFAAGAAVEBARcAAYACAAGAAwACgAEAAYADAAGAAQABgAEAAoACAAPA
         AQABwAHcAcABAAHwAcoBpgEAATMFAAEzAQABMwEAATMBAAIzAgADFgEAAxwBAAMiAQADKQEAA1UBAANN
         AQADQgEAAzkBAAGAAXwB/wEAAlAB/wEAAZMBAAHWAQAB/wHsAcwBAAHGAdYB7wEAAdYC5wEAAZABqQGt
@@ -639,10 +640,10 @@
         AewBDgEQAexCkgHrAQ4BEwHzB/8B7AEOARUB7EGSAewCDwHvBv8BBwEVAQ4B6kaSAewE6wHsSJIB6wEQ
         BgABEQHrRZIB7AEQAQABFQTsARMBAAEQAetEkgHsARMBDgEABBUCDgETAewpkgFCAU0BPgcAAT4DAAEo
         AwABQAEBAgABDgEBAgABAQEAAQEFAAEwASoWAAP//wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
-        /wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AWwAL
+        /wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AcQAL
 </value>
   </data>
-  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <data name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing">
     <value>130, 17</value>
-  </metadata>
+  </data>
 </root>

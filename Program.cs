@@ -13,7 +13,7 @@ namespace Win_dog
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+            Application.EnableVisualStyles();//fuck
             Application.SetCompatibleTextRenderingDefault(false); //bitch
             Application.Run(new Form1());
         }
