@@ -14,7 +14,7 @@ namespace Win_dog
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.SetCompatibleTextRenderingDefault(false); //bitch
             Application.Run(new Form1());
         }
     }
